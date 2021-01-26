@@ -1,10 +1,16 @@
 # Sentimental-Interaction-Network
 Source code of “Discovering Sentimental Interaction via Graph Convolutional Network for Visual Sentiment Prediction”
 
-# Dependencies
+# Enviroment
+Ubuntu 16.04 with Nividia 2080
+
+Dependencies:
+
 Python 3.6
 
 Pytorch 1.2.0
+
+Cuda 10.2
 
 Dgl 0.4.3
 
